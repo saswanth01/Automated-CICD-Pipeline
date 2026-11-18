@@ -13,7 +13,7 @@ def home():
     </head>
     <body>
         <h1>Automated CI/CD Pipeline</h1>
-        <h2>Application Deployed Successfully!</h2>
+        <h2>Version 2 - Automatic Deployment Successful!</h2>
         <p>Welcome to my containerized web application.</p>
     </body>
     </html>
